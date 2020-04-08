@@ -16,7 +16,7 @@ For our project we wanted to analyze how different factors impact the performanc
 
 ## Files Needed :open_file_folder:
 
-All of these datasets were taken from: https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data
+All of these datasets were taken from [this Kaggle webpage](https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data)
 1. nfl_stadiums.csv
 2. nfl_teams.csv
 3. spreadspoke_scores.csv
