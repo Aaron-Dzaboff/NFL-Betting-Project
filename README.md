@@ -1,8 +1,8 @@
 ## Table of Contents
 
-- [Project Title](#Project Title)
-- [Description](#Description)
-- [Files Needed](#Files Needed)
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [FILES USED](#files-used)
 
 ## Project Title
 
